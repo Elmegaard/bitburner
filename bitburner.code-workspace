@@ -28,8 +28,7 @@
         "pattern": "**/*.ts",
         "snippet": "ns-template"
       }
-    ],
-    "bitburner.authToken": "${env:BITBURNER_AUTH_TOKEN}"
+    ]
   },
   "launch": {
     "version": "0.2.0",
